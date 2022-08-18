@@ -5,7 +5,6 @@ NIST SP 800-63 RTD Demo
    :maxdepth: 2
    :caption: NIST SP 800-63
 
-   README
    SP-800-63-3
    sp800-63-3/README
    sp800-63-3/sec1_2_introduction
